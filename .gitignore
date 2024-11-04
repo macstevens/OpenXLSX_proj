@@ -4,3 +4,4 @@
 /msvc/OpenXLSX_test/x64/
 /msvc/x64/
 *.vcxproj.user
+/msvc/Demo1/Demo01.xlsx
