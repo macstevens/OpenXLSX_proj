@@ -1,0 +1,6 @@
+/msvc/.vs/
+/msvc/Demo1/x64/
+/msvc/OpenXLSX/x64/
+/msvc/OpenXLSX_test/x64/
+/msvc/x64/
+*.vcxproj.user
