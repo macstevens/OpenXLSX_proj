@@ -147,7 +147,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\OpenXLSX\OpenXLSX.vcxproj">
-      <Project>{e92322f3-83ae-457c-aa8b-b8a8ad2ddf6a}</Project>
+      <Project>{DAFC5980-9ECF-4072-A10D-08211959A4BB}</Project>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

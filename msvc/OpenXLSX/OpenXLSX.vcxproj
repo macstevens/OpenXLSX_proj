@@ -82,7 +82,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{E92322F3-83AE-457C-AA8B-B8A8AD2DDF6A}"}</ProjectGuid>
+    <ProjectGuid>{DAFC5980-9ECF-4072-A10D-08211959A4BB}"}</ProjectGuid>
     <RootNamespace>OpenXLSX</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
