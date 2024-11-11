@@ -5,3 +5,5 @@
 /msvc/x64/
 *.vcxproj.user
 /msvc/Demo1/Demo01.xlsx
+*.vpj
+*.vpw
