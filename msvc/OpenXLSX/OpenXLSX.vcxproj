@@ -33,6 +33,7 @@
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLContentTypes.hpp" />
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLDateTime.hpp" />
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLDocument.hpp" />
+    <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLDrawing.hpp" />
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLException.hpp" />
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLFormula.hpp" />
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLIterator.hpp" />
@@ -44,6 +45,7 @@
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLSharedStrings.hpp" />
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLSheet.hpp" />
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLStyles.hpp" />
+    <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLTables.hpp" />
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLWorkbook.hpp" />
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLXmlData.hpp" />
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLXmlFile.hpp" />
@@ -64,6 +66,7 @@
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLContentTypes.cpp" />
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLDateTime.cpp" />
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLDocument.cpp" />
+    <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLDrawing.cpp" />
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLFormula.cpp" />
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLMergeCells.cpp" />
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLProperties.cpp" />
@@ -73,6 +76,7 @@
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLSharedStrings.cpp" />
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLSheet.cpp" />
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLStyles.cpp" />
+    <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLTables.cpp" />
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLWorkbook.cpp" />
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLXmlData.cpp" />
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLXmlFile.cpp" />
