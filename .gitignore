@@ -7,3 +7,5 @@
 /msvc/Demo1/Demo01.xlsx
 *.vpj
 *.vpw
+/msvc/Demo11/x64
+*.xlsx

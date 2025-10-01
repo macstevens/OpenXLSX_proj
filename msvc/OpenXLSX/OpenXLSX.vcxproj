@@ -46,6 +46,8 @@
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLSheet.hpp" />
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLStyles.hpp" />
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLTables.hpp" />
+    <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLImage.hpp" />
+    <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLDrawingML.hpp" />
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLWorkbook.hpp" />
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLXmlData.hpp" />
     <ClInclude Include="..\..\..\OpenXLSX\OpenXLSX\headers\XLXmlFile.hpp" />
@@ -77,6 +79,8 @@
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLSheet.cpp" />
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLStyles.cpp" />
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLTables.cpp" />
+    <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLImage.cpp" />
+    <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLDrawingML.cpp" />
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLWorkbook.cpp" />
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLXmlData.cpp" />
     <ClCompile Include="..\..\..\OpenXLSX\OpenXLSX\sources\XLXmlFile.cpp" />
@@ -86,7 +90,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{DAFC5980-9ECF-4072-A10D-08211959A4BB}"}</ProjectGuid>
+    <ProjectGuid>{DAFC5980-9ECF-4072-A10D-08211959A4BB}</ProjectGuid>
     <RootNamespace>OpenXLSX</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
